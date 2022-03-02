@@ -90,3 +90,7 @@ body
     margin-right: auto;
     width: 450px;
 }
+.text_centered
+{
+    text-align: center;
+}
