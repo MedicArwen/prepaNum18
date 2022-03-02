@@ -4,5 +4,5 @@
             <p><a href="paypal">Paypal</a></p>
             <p><a href="rib">Rib</a></p>
             <nobr> 
-            <img class="kiwi" src="kiwi.png" alt="Kiwi">
+            <div style="text-align: right;"><img class="kiwi" src="kiwi.png" alt="Kiwi"></div>
             
