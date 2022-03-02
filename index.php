@@ -22,6 +22,9 @@ include('header.php')
         <div id="main">
     
         <?php 
+        if (!isset($_GET['page']))
+        include('accueil.php');
+        else
         switch($_GET['page'])
         {
             case "especes":include('especes.php');
