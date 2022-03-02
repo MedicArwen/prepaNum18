@@ -20,7 +20,7 @@ include('header.php')
     <div id="general">
         <?php include('nav.php');?>
         <div id="main">
-            yolo
+    
         <?php 
         switch($_GET['page'])
         {
