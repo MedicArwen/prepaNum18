@@ -19,3 +19,4 @@
 <h5>Des structures informelles commercialisent la « viande de brousse » sur les bords de route et approvisionnent restaurants et industries alimentaires.</h5>
 <ol><h4>5. Le Braconnage mafieux</h4></ol>
 <h5>Ce type de braconnage s’appuie en fait sur des entités internationales de type mafieux qui trafiquent les espèces animales en créant de nouveaux courants économiques (ivoire, cornes, chair, …).</h5>
+<h2> Sauvons les animaux !</h2>
