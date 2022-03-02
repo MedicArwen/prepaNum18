@@ -33,4 +33,4 @@
 
 <p> En France:un particulier coupable de trafic d'espèce sauvage risque jusqu'à <strong>150 000</strong> euros d'amende et 3 ans de prison, et une bande organisée, jusqu'à <strong>750 000 euros et 7 ans de prison.</strong> </p>
 
-<img src="poulet.jpg">
+<img src="poulet.jpg" class="centered">
