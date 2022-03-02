@@ -4,4 +4,5 @@
             <div class="reference">
             <p><a href="paypal">Paypal</a></p>
             <p><a href="rib">Rib</a></p>
-            <img src="image.png">
+            <nobr> 
+            <img src="image.png" alt="Kiwi♥">
