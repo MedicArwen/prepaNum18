@@ -83,3 +83,11 @@ body
 {
     background-image: url("kiwi.png");
 }
+.graf.png
+{
+    position: relative;
+    left: 1000px;
+    right: 200px;
+    top: 15px;
+    bottom: 20px;
+}
