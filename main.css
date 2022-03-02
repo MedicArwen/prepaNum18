@@ -17,7 +17,7 @@ padding: 0px;
 
 .kiwi
 {
-    background-image: url("image.png");
+    background-image: url("kiwi.png");
 }
 .photo
 {
@@ -81,7 +81,7 @@ body
 }
 .kiwi
 {
-    background-image: url("image.png");
+    background-image: url("kiwi.png");
 }
 .centered
 {
@@ -93,4 +93,8 @@ body
 .text_centered
 {
     text-align: center;
+}
+.kiwi
+{
+    float: right;
 }
