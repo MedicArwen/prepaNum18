@@ -32,3 +32,5 @@
 <p><strong>9 500</strong> annonces. Le commerce d’animaux sauvages se fait de plus en plus en ligne, ce qui complique la lutte contre cette criminalité, comme l'a démontré le dernier rapport de l'IFAW, Recherché, mort ou vif, publié fin novembre. </p>
 
 <p> En France:un particulier coupable de trafic d'espèce sauvage risque jusqu'à <strong>150 000</strong> euros d'amende et 3 ans de prison, et une bande organisée, jusqu'à <strong>750 000 euros et 7 ans de prison.</strong> </p>
+
+salut ma reponse va etre negative.
