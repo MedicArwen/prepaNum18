@@ -5,6 +5,6 @@
         </div>
         <div class="gif">
             <div><img class="img_small" src="gifkoala.jpg" width="300px" /></div>
-            <div class="sous_image">Le braconnage: un procéder barbare</div>
+            <div class="sous_image">Le braconnage: un procédé barbare</div>
         </div>
     
