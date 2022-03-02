@@ -9,6 +9,7 @@
     <li>Sans autorisation (pas de quota pour l’espèce, absence de permis ou de timbre, …)</li>
 </ul>
 <h3>Quels sont les différents types de braconnage ?</h3> 
+<img src="arme-braconnage.jpg">
 <ol><h4>1. Le Braconnage coutumier</h4></ol>
 <h5>Il s’agit d’un braconnage relevant de traditions ancestrales. </h5>
 <ol><h4>2. Le Braconnage de subsistance</h4> </ol>
