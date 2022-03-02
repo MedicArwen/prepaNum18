@@ -7,8 +7,8 @@
                 <h3>Le tigre du Bengale et quatre de ses sous-espèces sont les animaux les plus menacés d’extinction de la terre. Il ne reste sur terre qu’environ 3 000 à 4 500 individus.
                 </h3>
                 <img src="tigre.png" alt="feur">
-                <h3>Le gorille de montagne et plusieurs autres sous-espèces du gorille africain sont très menacés par le braconnage, de la chasse et la déforestation, ainsi que la disparition de son habitat. Cette menace émane essentiellement de la constante croissance de la demande en téléphone portable et smartphone.
-                </h3>
+                <p>Le gorille de montagne et plusieurs autres sous-espèces du gorille africain sont très menacés par le braconnage, de la chasse et la déforestation, ainsi que la disparition de son habitat. Cette menace émane essentiellement de la constante croissance de la demande en téléphone portable et smartphone.                    
+                </p>
                 <img src="gorille.png" alt="">
                 <h3>En effet, la fabrication des puces pour téléphone nécessite l’utilisation du coltan, un minerai dont l’exploitation à de lourdes conséquences sur l’habitat des gorilles. Il ne reste actuellement que 110 000 gorilles
                 </h3>
