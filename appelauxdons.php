@@ -5,5 +5,5 @@
             <p><a href="paypal">Paypal</a></p>
             <p><a href="rib">Rib</a></p>
             <nobr> 
-            <div style="text-align: right;" style="max-width: 100px; height: auto; "><img class="kiwi" src="kiwi.png" alt="Kiwi"></div>
+            <div style="text-align: right;"><img class="kiwi" src="kiwi.png" alt="Kiwi"></div>
             
