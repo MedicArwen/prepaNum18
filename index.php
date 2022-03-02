@@ -45,6 +45,7 @@ include('header.php')
 
     <div id="general">
         <?php include('nav.php');?>
+        <div id="main">
         <?php 
         if (!isset($_GET['page']))
         include('accueil.php');
