@@ -85,6 +85,8 @@ body
 }
 .graf.png
 {
+    width: 200px;
+    height: 200px;
     position: relative;
     left: 1000px;
     right: 200px;
