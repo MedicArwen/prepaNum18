@@ -86,8 +86,8 @@ body
 .graf.png
 {
     position: relative;
-    left: auto;
-    right: auto;
-    top: auto;
-    bottom: auto;
+    left: 1000px;
+    right: 200px;
+    top: 15px;
+    bottom: 20px;
 }
