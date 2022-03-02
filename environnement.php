@@ -20,7 +20,7 @@ Voici les 11 plus grands écosystèmes à découvrir sur Terre.</h2>
     cette ecosysteme est aussi un objet economique humains et social a traver les ressourses 
     qu'il recèl,les populations qu'il l'habite et les attentions qu'il suscite.
 </p>
-<img src="carte-monde-forets.png">
+<img src="carte-monde-forets.png" class="centered">
 <h4>l"eau douce</h4>
 <p>
 
