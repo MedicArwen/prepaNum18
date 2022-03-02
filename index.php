@@ -20,7 +20,11 @@ include('header.php')
     <div id="general">
         <?php include('nav.php');?>
         <div id="main">
+<<<<<<< Updated upstream
     
+=======
+            yolo les potos
+>>>>>>> Stashed changes
         <?php 
         if (!isset($_GET['page']))
         include('accueil.php');
