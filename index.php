@@ -1,9 +1,35 @@
+<?php
+ if (!isset($_GET['page']))
+ $titre="Accueil";
+ else
+ switch($_GET['page'])
+ {
+     case "especes":$titre="Espèces en danger";
+     break;
+     case "deforestation":$titre="Déforestation";
+     break;
+     case "appelauxdons":$titre="Appel aux dons";
+     break;
+     case "contacts":$titre="Nous contacter";
+     break;
+     case "environnement":$titre="Environnement";
+     break;
+     case "especeeteinte":$titre="Espèces éteintes";
+     break;
+     case "quellessolutions":$titre="Quelles solutions";
+     break;
+     case "trafic":$titre="Le braconnage";
+     break;
+     default:$titre="Accueil";
+ }
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Projet Via</title>
+    <title>Projet Via: <?php echo $titre;?></title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
     <style>
