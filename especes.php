@@ -7,14 +7,14 @@
                 <h3>Le tigre du Bengale et quatre de ses sous-espèces sont les animaux les plus menacés d’extinction de la terre. Il ne reste sur terre qu’environ 3 000 à 4 500 individus.
                 </h3>
                 <img src="tigre.png" alt="feur">
-                <h3>Le gorille de montagne et plusieurs autres sous-espèces du gorille africain sont très menacés par le braconnage, de la chasse et la déforestation, ainsi que la disparition de son habitat. Cette menace émane essentiellement de la constante croissance de la demande en téléphone portable et smartphone.
-                </h3>
+                <p>Le gorille de montagne et plusieurs autres sous-espèces du gorille africain sont très menacés par le braconnage, de la chasse et la déforestation, ainsi que la disparition de son habitat. Cette menace émane essentiellement de la constante croissance de la demande en téléphone portable et smartphone.                    
+                </p>
                 <img src="gorille.png" alt="">
-                <h3>En effet, la fabrication des puces pour téléphone nécessite l’utilisation du coltan, un minerai dont l’exploitation à de lourdes conséquences sur l’habitat des gorilles. Il ne reste actuellement que 110 000 gorilles
-                </h3>
+                <p>En effet, la fabrication des puces pour téléphone nécessite l’utilisation du coltan, un minerai dont l’exploitation à de lourdes conséquences sur l’habitat des gorilles. Il ne reste actuellement que 110 000 gorilles.
+                </p>
             </ul>
-            <h3>Animaux en voie d’ extinction</h3>
-            <h4>Les principales causes</h4>
+            <h2>Animaux en voie d’ extinction</h2>
+            <h3>Les principales causes</h3>
             <h4>Déforestation :Agriculture, routes, barrages, mines, industrialisation, Trafic d’espèces sauvages: Rhinocéros de Java, Tigre du Bengale, Eléphant d’Asie, Gorille Africain, Panda géant d’Asie, Animal éteint: Le Dodo, Environnement planète :Changement climatique , biodiversité, écosystème, Braconnage, chasse à outrance</h4>
             <ul>
                 <li>Aujourd’hui nous avons à travers la planète un dérèglement climatique à plusieurs étages causé par l’homme à savoir:

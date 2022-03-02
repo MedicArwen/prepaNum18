@@ -83,13 +83,10 @@ body
 {
     background-image: url("kiwi.png");
 }
-.graf.png
+.centered
 {
-    width: 200px;
-    height: 200px;
-    position: relative;
-    left: 1000px;
-    right: 200px;
-    top: 15px;
-    bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
 }
